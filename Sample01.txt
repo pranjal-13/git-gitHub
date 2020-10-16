@@ -1,7 +1,0 @@
-This is my first git hub file.
-
-First changes has been made.
-
-Second changes has been made to the file.
-
-Third Changes made to file.
